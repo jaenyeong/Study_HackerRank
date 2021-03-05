@@ -1,4 +1,4 @@
-package com.jaenyeong.Interviewpreparationkit._03DictionariesAndHashmaps.ps01;
+package com.jaenyeong.Interviewpreparationkit._03dictionariesAndHashmaps.ps01;
 
 import java.util.*;
 

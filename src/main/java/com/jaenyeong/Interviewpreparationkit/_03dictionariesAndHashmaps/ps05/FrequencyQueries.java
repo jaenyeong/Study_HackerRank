@@ -1,4 +1,4 @@
-package com.jaenyeong.Interviewpreparationkit._03DictionariesAndHashmaps.ps05;
+package com.jaenyeong.Interviewpreparationkit._03dictionariesAndHashmaps.ps05;
 
 import java.io.*;
 import java.util.ArrayList;

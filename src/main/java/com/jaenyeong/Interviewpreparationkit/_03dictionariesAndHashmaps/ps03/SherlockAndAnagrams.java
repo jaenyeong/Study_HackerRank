@@ -1,4 +1,4 @@
-package com.jaenyeong.Interviewpreparationkit._03DictionariesAndHashmaps.ps03;
+package com.jaenyeong.Interviewpreparationkit._03dictionariesAndHashmaps.ps03;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
