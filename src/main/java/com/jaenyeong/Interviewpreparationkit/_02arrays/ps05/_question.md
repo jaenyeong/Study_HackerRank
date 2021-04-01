@@ -39,7 +39,7 @@ Each of the next ***m*** lines contains three space-separated integers ***a***, 
 
 ### [Constraints]
 * ***3 <= n 10^7***
-* ***1 <= m <= 2 * 10^5***
+* ***1 <= m <= 2 × 10^5***
 * ***1 <= a <= b <= n***
 * ***0 <= k <= 10^9***
 

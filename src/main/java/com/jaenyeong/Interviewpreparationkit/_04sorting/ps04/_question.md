@@ -13,9 +13,9 @@ For example, ***d = 3*** and ***expenditures = [10,20,30,40,50]***.
 On the first three days, they just collect spending data.  
 At day ***4***, we have trailing expenditures of ***[10,20,30]***.  
 The median is ***20*** and the day's expenditure is ***40***.  
-Because ***40 >= 2 x 20***, there will be a notice.  
+Because ***40 >= 2 × 20***, there will be a notice.  
 The next day, our trailing expenditures are ***[20,30,40]*** and the expenditures are ***50***.  
-This is less than ***2 x 30*** so no notice will be sent.  
+This is less than ***2 × 30*** so no notice will be sent.  
 Over the period, there was one notice sent.  
 ***Note:*** The median of a list of numbers can be found by arranging all the numbers from smallest to greatest.  
 If there is an odd number of numbers, the middle one is picked.  
@@ -35,7 +35,7 @@ and the number of trailing days' data used to calculate median spending.
 The second line contains ***n*** space-separated non-negative integers where each integer ***i*** denotes ***expenditure[i]***.
 
 ### [Constraints]
-* ***1 <= n <= 2 x 10^5***  
+* ***1 <= n <= 2 × 10^5***  
 * ***1 <= d <= n***  
 * ***0 <= expenditure[i] <= 200***
 
@@ -78,4 +78,4 @@ The client spends ***5*** dollars, which does not trigger a notification because
 
 ### [Explanation 1]
 There are ***4*** days of data required so the first day a notice might go out is day ***5***.  
-Our trailing expenditures are ***[1,2,3,4]*** with a median of ***2.5*** The client spends ***4*** which is less than ***2 x 2.5*** so no notification is sent.
+Our trailing expenditures are ***[1,2,3,4]*** with a median of ***2.5*** The client spends ***4*** which is less than ***2 × 2.5*** so no notification is sent.

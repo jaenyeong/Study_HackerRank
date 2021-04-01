@@ -1,7 +1,7 @@
 # [2D Array-DS]
 
 ### [Question]
-Given a ***6 X 6*** 2D Array, ***arr***:
+Given a ***6 × 6*** 2D Array, ***arr***:
 ~~~
 1 1 1 0 0 0
 0 1 0 0 0 0  
@@ -19,7 +19,7 @@ e f g
 There are ***16*** hourglasses in ***arr***.  
 An hourglass sum is the sum of an hourglass' values.  
 Calculate the hourglass sum for every hourglass in ***arr***, then print the maximum hourglass sum.  
-The array will always be ***6 X 6***.
+The array will always be ***6 × 6***.
 
 ### [Example]
 ***arr =***
