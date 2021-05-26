@@ -80,7 +80,7 @@ Print the largest (maximum) hourglass sum found in ***arr***.
 
 ### [Explanation]
 ***arr*** contains the following hourglasses:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/twoDimensionalArrayDS/explanation01.png)  
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/twoDimensionalArrayDS/explanation01.png)  
 The hourglass with the maximum sum (**19**) is:
 ~~~
 2 4 4

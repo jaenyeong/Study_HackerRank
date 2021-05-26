@@ -47,7 +47,7 @@ YES
 ~~~
 
 ### [Explanation]
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/abbreviation/explanation01.png)
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/abbreviation/explanation01.png)
 
 We have ***a =*** daBcd and ***b =*** ABC.  
 We perform the following operation:

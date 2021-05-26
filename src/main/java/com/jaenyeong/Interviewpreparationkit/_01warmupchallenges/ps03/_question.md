@@ -51,7 +51,7 @@ Print the minimum number of jumps needed to win the game.
 ### [Explanation 0]
 The player must avoid ***c[2]*** and ***c[5]***.  
 The game can be won with a minimum of ***4*** jumps:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/jumpingOnTheClouds/explanation01.png)
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/jumpingOnTheClouds/explanation01.png)
 
 ### [Sample Input 1]
 ~~~
@@ -67,4 +67,4 @@ The game can be won with a minimum of ***4*** jumps:
 ### [Explanation 1]
 The only thundercloud to avoid is ***c[4]***.  
 The game can be won in ***3*** jumps:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/jumpingOnTheClouds/explanation02.png)
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/jumpingOnTheClouds/explanation02.png)

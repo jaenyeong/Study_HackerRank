@@ -42,5 +42,5 @@ STDIN                         Function
 ~~~
 
 ### [Explanation]
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/salesByMatch/explanation01.png)  
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/salesByMatch/explanation01.png)  
 There are three pairs of socks.

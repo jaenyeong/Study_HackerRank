@@ -60,13 +60,13 @@ Too chaotic
 
 #### [Test Case 1]
 The initial state:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/newYearChaos/explanation01.png)  
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/newYearChaos/explanation01.png)  
 After person ***5*** moves one position ahead by bribing person ***4***:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/newYearChaos/explanation01.png)  
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/newYearChaos/explanation01.png)  
 After person ***5*** moves another position ahead by bribing person ***3***:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/newYearChaos/explanation01.png)  
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/newYearChaos/explanation01.png)  
 And person ***2*** moves one position ahead by bribing person ***1***:  
-![설명](https://github.com/jaenyeong/Study_HackerRank/blob/master/src/main/resources/images/newYearChaos/explanation01.png)  
+![설명](https://github.com/jaenyeong/Study_HackerRank/blob/main/src/main/resources/images/newYearChaos/explanation01.png)  
 So the final state is ***2,1,5,3,4*** after three bribing operations.
 
 #### [Test Case 2]
